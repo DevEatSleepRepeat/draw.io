@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T21:07:58.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2jjQktUnw6R0H1FojbuU" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T21:13:12.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="a6QCa2WrgauD6IrSLtoN" version="20.6.0" type="github">
   <diagram id="t_bRf5nmpINgXacCX_1j" name="Page-1">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7JcRBsNAkTVgppiOHkhz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Pm57n_Jy9ew2opXhX-h-3" target="0Pm57n_Jy9ew2opXhX-h-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0Pm57n_Jy9ew2opXhX-h-3" value="Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="172" width="60" height="28" as="geometry" />
+          <mxGeometry x="140" y="164" width="60" height="28" as="geometry" />
         </mxCell>
         <mxCell id="0Pm57n_Jy9ew2opXhX-h-5" value="Login&amp;nbsp;&lt;br&gt;Successful" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="125" width="60" height="30" as="geometry" />
@@ -33,6 +36,18 @@
         </mxCell>
         <mxCell id="7JcRBsNAkTVgppiOHkhz-8" value="Or" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="162.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7JcRBsNAkTVgppiOHkhz-9" value="Pages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7JcRBsNAkTVgppiOHkhz-10" value="Password&amp;nbsp;&lt;br&gt;Redirect&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7JcRBsNAkTVgppiOHkhz-11" value="Home" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7JcRBsNAkTVgppiOHkhz-12" value="Password&amp;nbsp;&lt;br&gt;Redirect&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
